@@ -1,0 +1,470 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nufullscreen\n"
+"POT-Creation-Date: 2022-11-21 19:24+0100\n"
+"PO-Revision-Date: 2022-11-21 19:24+0100\n"
+"Last-Translator: \n"
+"Language-Team: Nuweb\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: classes/class-nusvg-admin-page-credits.php:10
+#: classes/class-nusvg-admin.php:32
+msgid "Credits"
+msgstr "Crédits"
+
+#: classes/class-nusvg-admin-page-documentation.php:9
+#: classes/class-nusvg-admin.php:31
+msgid "Documentation"
+msgstr "Documentation"
+
+#: classes/class-nusvg-admin-page-documentation.php:12
+msgid "Example SVG is missing, sorry."
+msgstr "Désolé. L'exemple n'a pas été trouvé."
+
+#: classes/class-nusvg-admin-page-documentation.php:19
+msgid "Display SVG"
+msgstr "Affichage du SVG"
+
+#: classes/class-nusvg-admin-page-documentation.php:26
+msgid "Parameters"
+msgstr "Paramètres"
+
+#: classes/class-nusvg-admin-page-documentation.php:28
+msgid ""
+"You can declare <b>parameters</b> in your SVG file in order to dynamically "
+"customize your SVG."
+msgstr ""
+"Vous pouvez déclarer des <b>paramètres</b> dans votre fichier SVG afin de le "
+"configurer dynamiquement."
+
+#: classes/class-nusvg-admin-page-documentation.php:30
+msgid "Syntax"
+msgstr "Syntaxe"
+
+#: classes/class-nusvg-admin-page-documentation.php:34
+msgid "Example"
+msgstr "Exemple"
+
+#: classes/class-nusvg-admin-page-documentation.php:38
+msgid "Use of parameters"
+msgstr "Utilisation de paramètres"
+
+#: classes/class-nusvg-admin-page-documentation.php:50
+msgid "Retrieve values"
+msgstr "Récupération des valeurs"
+
+#: classes/class-nusvg-admin-page-documentation.php:52
+#, php-format
+msgid "Method %s (or %s for echo) is useful."
+msgstr "La méthode %s (ou %s pour un echo) est utile."
+
+#: classes/class-nusvg-admin-page-documentation.php:64
+msgid "Any custom parameter"
+msgstr "N'importe quel paramètre"
+
+#: classes/class-nusvg-admin-page-documentation.php:76
+msgid "SVG in base64"
+msgstr "SVG en base64"
+
+#: classes/class-nusvg-admin-page-documentation.php:83
+msgid "Get URL"
+msgstr "Obtenir l'URL"
+
+#: classes/class-nusvg-admin-page-documentation.php:90
+msgid "Get SVG in base64"
+msgstr "Obtenir le SVG en base64"
+
+#: classes/class-nusvg-admin-page-documentation.php:98
+msgid "Respect image ratio"
+msgstr "Respecter le ratio de l'image"
+
+#: classes/class-nusvg-admin-page-documentation.php:100
+#, php-format
+msgid ""
+"When changing default %s, you should give both width and height parameter, "
+"otherwise ratio won't be kept :"
+msgstr ""
+"Si vous changez la valeur par défaut de %s, vous devrez fournir en "
+"paramètres à la fois width et height, sinon le ratio ne sera pas respecté :"
+
+#: classes/class-nusvg-admin-page-documentation.php:111
+#, php-format
+msgid "Use %s as value for automatic calculus :"
+msgstr "Utiliser %s comme valeur pour un calcul automatique :"
+
+#: classes/class-nusvg-admin-page-documentation.php:119
+msgid "ID disambiguation"
+msgstr "Désambigüisation de l'ID"
+
+#: classes/class-nusvg-admin-page-documentation.php:121
+#, php-format
+msgid ""
+"When using ID inside SVG, we should make them unique. This can be done by "
+"prefixing them with %s."
+msgstr ""
+"Quand on utilise un ID dans un fichier SVG, il faut s'assurer qu'il soit "
+"unique. C'est facilement faisable en le préfixant avec %s."
+
+#: classes/class-nusvg-admin-page-documentation.php:128
+msgid "Dump"
+msgstr "Dump"
+
+#: classes/class-nusvg-admin-page-documentation.php:130
+#, php-format
+msgid "Need a summary of all parameters ? Use method %s !"
+msgstr "Besoin d'un résumé de tous les paramètres ? Utilisons la méthode %s !"
+
+#: classes/class-nusvg-admin-page-documentation.php:163
+msgid "inline SVG background"
+msgstr "background SVG en inline"
+
+#: classes/class-nusvg-admin-page-documentation.php:210
+msgid "Using a shortcode instead of PHP"
+msgstr "En utilisant un shortcode plutôt que PHP"
+
+#: classes/class-nusvg-admin-page-documentation.php:217
+msgid "Parameters in JSON format :"
+msgstr "Paramètres au format JSON :"
+
+#: classes/class-nusvg-admin-page-documentation.php:225
+msgid "Image license list"
+msgstr "Synthèse des licences d'images"
+
+#: classes/class-nusvg-admin-page-documentation.php:227
+#, php-format
+msgid ""
+"If you specified credits for your images, you can easily get a credit list "
+"to display on your site.%s Thanks to a shortcode : %s Or thanks to a PHP "
+"method : %s"
+msgstr ""
+"Si vous avez spécifié des crédits pour vos images, vous pouvez facilement "
+"afficher une liste de crédits sur votre site.%s Grâce à un raccourci : %s Ou "
+"grâce à une méthode PHP : %s"
+
+#: classes/class-nusvg-admin-page-item.php:10
+msgid "Page not found"
+msgstr "Page non trouvée"
+
+#: classes/class-nusvg-admin-page-item.php:17 classes/class-nusvg-admin.php:92
+msgid "Back to list"
+msgstr "Retour à la liste"
+
+#: classes/class-nusvg-admin-page-item.php:19 classes/class-nusvg-admin.php:38
+#: classes/class-nusvg-admin.php:94
+msgid "Item"
+msgstr "Élément"
+
+#: classes/class-nusvg-admin-page-item.php:24 classes/class-nusvg-admin.php:99
+msgid "not found"
+msgstr "non trouvé"
+
+#: classes/class-nusvg-admin-page-list.php:30
+msgid "Bad syntax"
+msgstr "Syntaxe erronée"
+
+#: classes/class-nusvg-admin-page-list.php:32
+msgid "Slug already used"
+msgstr "Ce slug est déjà pris"
+
+#: classes/class-nusvg-admin-page-list.php:47 classes/class-nusvg-admin.php:30
+msgid "List"
+msgstr "Liste"
+
+#: classes/class-nusvg-admin-page-list.php:50
+msgid "New item"
+msgstr "Nouvelle image"
+
+#: classes/class-nusvg-admin-page-list.php:51
+msgid "Add"
+msgstr "Ajouter"
+
+#: classes/class-nusvg-admin-page-list.php:54
+#, php-format
+msgid ""
+"Size between %d and %d characters ; alphanumeric + underscores + hyphens"
+msgstr ""
+"Taille entre %d et %d caractères ; alphanumérique + underscores + tirets"
+
+#: classes/class-nusvg-admin-page-list.php:66
+msgid "preview"
+msgstr "aperçu"
+
+#: classes/class-nusvg-admin-page-list.php:67
+msgid "default size"
+msgstr "taille par défaut"
+
+#: classes/class-nusvg-admin-page-list.php:68
+msgid "delete"
+msgstr "supprimer"
+
+#: classes/class-nusvg-admin-page-troubleshooting.php:9
+#: classes/class-nusvg-admin.php:33
+msgid "Troubleshooting"
+msgstr "Dépannage"
+
+#: classes/class-nusvg-admin-page-troubleshooting.php:14
+msgid "Done"
+msgstr "Terminé"
+
+#: classes/class-nusvg-admin-page-troubleshooting.php:18
+msgid "Refresh cache"
+msgstr "Rafraîchir le cache"
+
+#: classes/class-nusvg-admin-page-uninstall.php:8
+#: classes/class-nusvg-admin.php:35
+msgid "Uninstall"
+msgstr "Désinstallation"
+
+#: classes/class-nusvg-admin-page-uninstall.php:11
+msgid ""
+"To avoid erasure of useful data, SVG files are not deleted during uninstall "
+"process."
+msgstr ""
+"Pour éviter une perte de données, la désinstallation de cette extension ne "
+"supprimera pas les fichiers SVG."
+
+#: classes/class-nusvg-admin-page-uninstall.php:12
+#, php-format
+msgid "After uninstalling this plugin, please manually delete this folder : %s"
+msgstr ""
+"Après avoir désinstallé cette extension, veuillez supprimer manuellement ce "
+"répertoire : %s"
+
+#: classes/class-nusvg-admin.php:47 classes/class-nusvg-admin.php:85
+msgid "You do not have sufficient permissions to access this page."
+msgstr "Vous n'avez pas les permissions suffisantes pour accéder à cette page."
+
+#: classes/class-nusvg-item.php:209
+msgid "Custom parameters"
+msgstr "Paramètres personnels"
+
+#: classes/class-nusvg-item.php:295 classes/class-nusvg-item.php:349
+msgid "Save"
+msgstr "Enregistrer"
+
+#: classes/class-nusvg-item.php:314
+msgid "Preview HTML"
+msgstr "Aperçu HTML"
+
+#: classes/class-nusvg-item.php:319
+msgid "Preview base64 (background)"
+msgstr "Aperçu en base64 (background)"
+
+#: classes/class-nusvg-item.php:419
+msgid "Not deletable (used in doc)"
+msgstr "Non-supprimable (utilisé dans documentation)"
+
+#: classes/class-nusvg-item.php:422
+msgid "Delete this item ?"
+msgstr "Supprimer cet élément ?"
+
+#: classes/class-nusvg-item.php:424
+msgid "Delete"
+msgstr "Supprimer"
+
+#~ msgid "List of image credits"
+#~ msgstr "Synthèse des crédits d'images"
+
+#~ msgid "Get SVG with default parameters"
+#~ msgstr "Obtenir le SVG avec les paramètres par défaut"
+
+#~ msgid "Overwrite default parameters"
+#~ msgstr "Écraser les paramètres par défaut"
+
+#~ msgid "Create sprite image"
+#~ msgstr "Créer une image Sprite"
+
+#~ msgid "syntax error"
+#~ msgstr "erreur de syntaxe"
+
+#~ msgid "Edit sprite"
+#~ msgstr "Éditer l'image Sprite"
+
+#~ msgid "Slug"
+#~ msgstr "Slug"
+
+#~ msgid "lowercase, figures, underscores, max %d characers"
+#~ msgstr "minuscules, chiffres, underscores, max %d caractères"
+
+#~ msgid "%s containing %s"
+#~ msgstr "%s contenant %s"
+
+#~ msgid "Posts"
+#~ msgstr "Posts"
+
+#~ msgid "You could %s delete related posts"
+#~ msgstr "Vous pourriez %s supprimer les posts associés"
+
+#~ msgid "Images"
+#~ msgstr "Images"
+
+#~ msgid "You could %s delete unattached images"
+#~ msgstr "Vous pourriez  %s supprimer les images non attachées"
+
+#~ msgid "Sprite"
+#~ msgstr "Élément de Sprite"
+
+#~ msgid "Delete sprite \"%s\" ?"
+#~ msgstr "Supprimer le Sprite %s ?"
+
+#~ msgid "Regenerate this sprite"
+#~ msgstr "Régénérer ce sprite"
+
+#~ msgid "Version"
+#~ msgstr "Version"
+
+#~ msgid "Sizes"
+#~ msgstr "Dimensions"
+
+#~ msgid "Weight"
+#~ msgstr "Poids"
+
+#~ msgid "optional"
+#~ msgstr "facultatif"
+
+#~ msgid "Narrowest as possible"
+#~ msgstr "Le plus étroit possible"
+
+#~ msgid "Max width"
+#~ msgstr "Largeur maximale"
+
+#~ msgid "Widest as possible"
+#~ msgstr "Le plus large possible"
+
+#~ msgid "Submit"
+#~ msgstr "Envoyer"
+
+#~ msgid "Current image"
+#~ msgstr "Image actuelle"
+
+#~ msgid "Manage images"
+#~ msgstr "Gérer les éléments de ce sprite"
+
+#~ msgid "Settings"
+#~ msgstr "Réglages"
+
+#~ msgid "Not found"
+#~ msgstr "Non trouvé"
+
+#~ msgid "Create a new sprite image"
+#~ msgstr "Créer une image Sprite"
+
+#~ msgid "URL"
+#~ msgstr "URL"
+
+#~ msgid "Sprite not yet generated"
+#~ msgstr "Sprite pas encore généré"
+
+#~ msgid "Space on disk"
+#~ msgstr "Espace sur le disque"
+
+#~ msgid "Expiration"
+#~ msgstr "Expiration"
+
+#~ msgid "Define how long <b>old versions</b> of files must remain on server."
+#~ msgstr ""
+#~ "Définir combien de temps les <b>vieilles versions</b> de fichiers doivent "
+#~ "rester sur le serveur."
+
+#~ msgid "days"
+#~ msgstr "jours"
+
+#~ msgid "Define"
+#~ msgstr "Définir"
+
+#~ msgid "Currently on disk"
+#~ msgstr "Espace sur le disque"
+
+#~ msgid "Number of <b>old versions</b> older than %d days"
+#~ msgstr "Nombre de <b>vieilles versions</b> créés il y a plus de %d days"
+
+#~ msgid "Number of folders"
+#~ msgstr "Nombre de dossiers"
+
+#~ msgid "Deletion of old files via Cron"
+#~ msgstr "Suppression des vieux fichiers via Cron"
+
+#~ msgid "Nusprite schedulded a WP-Cron task to delete %d old files each hour."
+#~ msgstr ""
+#~ "Nusprite a planifié une tâche WP-Cron pour supprimer %d vieux fichiers "
+#~ "toutes les heures."
+
+#~ msgid ""
+#~ "As <b>%s</b> is defined, this task will run only if a server cron job is "
+#~ "scheduled."
+#~ msgstr ""
+#~ "Vu que <b>%s</b> est défini, cette tâche ne sera lancée que si un Cron "
+#~ "côté serveur est planifié."
+
+#~ msgid "Manually"
+#~ msgstr "Manuellement"
+
+#~ msgid "Delete files older than %d days right now"
+#~ msgstr "Supprimer maintenant les fichiers créés il y a plus de %d jours"
+
+#~ msgid "As much files as possible will be deleted"
+#~ msgstr "Autant de fichiers que possible seront supprimés"
+
+#~ msgid "Plugin is ready for %s uninstall"
+#~ msgstr "Extension prête pour la %s désinstallation"
+
+#~ msgid "Create a sprite image"
+#~ msgstr "Créer une image Sprite"
+
+#~ msgid "Sprite Items"
+#~ msgstr "Éléments de Sprite"
+
+#~ msgid "All sprite items"
+#~ msgstr "Tous les éléments de Sprite"
+
+#~ msgid "Add New item to sprite"
+#~ msgstr "Ajouter un nouvel élément de Sprite"
+
+#~ msgid "Add New Item"
+#~ msgstr "Ajouter un nouvel élément de Sprite"
+
+#~ msgid "Edit sprite item"
+#~ msgstr "Éditer élément"
+
+#~ msgid "Update sprite item"
+#~ msgstr "Mettre à jour élément"
+
+#~ msgid "Search items"
+#~ msgstr "Rechercher éléments"
+
+#~ msgid "No item found"
+#~ msgstr "Non trouvé"
+
+#~ msgid "No item found in trash"
+#~ msgstr "Non trouvé dans la corbeille"
+
+#~ msgid "Sprite Item"
+#~ msgstr "Élément de Sprite"
+
+#~ msgid "Sprite items"
+#~ msgstr "Éléments de Sprite"
+
+#~ msgid "Add a new sprite"
+#~ msgstr "Ajouter un"
+
+#~ msgid "Image is the same as before"
+#~ msgstr "Cette image est la même que la précédente"
+
+#~ msgid "Size"
+#~ msgstr "Poids"
+
+#~ msgid "bytes"
+#~ msgstr "octets"
+
+#, fuzzy
+#~| msgid "Regenerate this sprite"
+#~ msgid "Rechercher un sprite"
+#~ msgstr "Régénérer ce sprite"
